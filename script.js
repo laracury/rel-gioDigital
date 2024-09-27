@@ -13,3 +13,4 @@ function atualizandoHora(){
 //setInterval serve para atualizar algo, o 1000 é refrente a 1s
 setInterval(atualizandoHora, 1000);
 atualizandoHora();
+
