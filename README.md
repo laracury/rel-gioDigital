@@ -5,4 +5,4 @@ Atividade voltada a criação de um relógio digital em tempo real usando JavaSc
 - O método `padStart(2, '0')` garante que os valores fiquem sempre com dois dígitos (por exemplo, `09` em vez de `9`).
 - O `setInterval` chama a função `atualizandoHora` a cada 1000 milissegundos (1 segundo), atualizando o relógio em tempo real.
 
-<img src="img/link-45deg.svg">
+<img src="img/link-45deg.svg">https://laracury.github.io/relogioDigital/
