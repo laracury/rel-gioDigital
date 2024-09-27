@@ -1,4 +1,4 @@
-## relogioDigital
+## Relogio Digital
 Atividade voltada a criação de um relógio digital em tempo real usando JavaScript
 
 - A função `atualizarRelogio` usa `new Date()` para obter a hora atual e `getHours()`, `getMinutes()` e `getSeconds()` para extrair as horas, minutos e segundos.
