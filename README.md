@@ -1,2 +1,2 @@
-# rel-gioDigital
+# relogioDigital
 Atividade voltada a criação de um relógio digital em tempo real usando JavaScript
